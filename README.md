@@ -1,4 +1,4 @@
-### Hello there, I am a PhD student at the University of Central Lancashire. Welcome to my page which will be on the subject of planet migration in massive circumbinary disks.
+### Hello there, I am a PhD student at the University of Central Lancashire.
 
 <!--
 **MTeasdale01/MTeasdale01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
